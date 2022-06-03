@@ -3,7 +3,6 @@ from unittest.mock import MagicMock
 
 from dao.model.director import Director
 from service.director import DirectorService
-
 from dao.director import DirectorDAO
 
 
